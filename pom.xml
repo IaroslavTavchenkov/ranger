@@ -187,7 +187,7 @@
         <trino.version>377</trino.version>
         <poi.version>5.2.2</poi.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <protobuf-java.version>3.19.3</protobuf-java.version>
+        <protobuf-java.version>3.25.1</protobuf-java.version>
         <gcp.protobuf-java.version>3.19.3</gcp.protobuf-java.version>
         <ratis.version>2.1.0</ratis.version>
         <ratis-thirdparty.version>0.7.0</ratis-thirdparty.version>
