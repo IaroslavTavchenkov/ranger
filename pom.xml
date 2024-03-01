@@ -204,7 +204,7 @@
         <springframework.test.version>5.3.29</springframework.test.version>
         <springframework.version>5.3.29</springframework.version>
         <sqoop.version>1.99.7</sqoop.version>
-        <storm.version>1.2.4</storm.version>
+        <storm.version>2.0.0</storm.version>
         <sun-jersey-bundle.version>1.19</sun-jersey-bundle.version>
         <tomcat.embed.version>8.5.94</tomcat.embed.version>
         <testng.version>7.0.0</testng.version>
