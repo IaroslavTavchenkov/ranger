@@ -212,8 +212,8 @@
         <zookeeper.version>3.5.5</zookeeper.version>
         <codehaus.woodstox.stax2api.version>4.2.1</codehaus.woodstox.stax2api.version>
         <fasterxml.woodstox.version>5.4.0</fasterxml.woodstox.version>
-        <fasterxml.jackson.version>2.14.0</fasterxml.jackson.version>
-        <fasterxml.jackson.databind.version>2.14.0</fasterxml.jackson.databind.version>
+        <fasterxml.jackson.version>2.15.0</fasterxml.jackson.version>
+        <fasterxml.jackson.databind.version>2.15.0</fasterxml.jackson.databind.version>
         <kstruct.gethostname4j.version>1.0.0</kstruct.gethostname4j.version>
         <jna.version>5.7.0</jna.version>
         <jna-platform.version>5.7.0</jna-platform.version>
@@ -234,7 +234,7 @@
         <trino.re2j.version>1.1</trino.re2j.version>
 
         <!-- Azure Key Vault dependencies -->
-        <com.microsoft.azure.version>1.22.0</com.microsoft.azure.version>
+        <com.microsoft.azure.version>1.41.0</com.microsoft.azure.version>
         <com.microsoft.azure.azure-keyvault.version>1.2.1</com.microsoft.azure.azure-keyvault.version>
         <com.microsoft.azure.azure-mgmt-keyvault.version>1.22.0</com.microsoft.azure.azure-mgmt-keyvault.version>
         <com.microsoft.rest.client-runtime.version>1.6.7</com.microsoft.rest.client-runtime.version>
